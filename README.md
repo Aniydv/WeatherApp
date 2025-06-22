@@ -1,1 +1,1 @@
-# WeatherApp
+A simple and responsive weather application that allows users to check the current weather conditions of any city around the world. Built using HTML, CSS, and JavaScript, this project fetches real-time weather data using the OpenWeatherMap API.
